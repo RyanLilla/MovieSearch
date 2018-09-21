@@ -1,0 +1,10 @@
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\MovieSearch.exe.config
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\MovieSearch.exe
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\MovieSearch.pdb
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\obj\Debug\MovieSearch.csprojAssemblyReference.cache
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\obj\Debug\MovieSearch.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\obj\Debug\MovieSearch.exe
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\obj\Debug\MovieSearch.pdb
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\title.akas.tsv
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\title.basics.tsv
+C:\Users\Ryan\Projects\MovieSearch\MovieSearch\bin\Debug\title.basics - Copy.tsv
