@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/MovieSearch/v15/Server/sqlite3
+/.vs
+/MovieSearch/bin/Debug/title.akas.tsv
+/MovieSearch/bin/Debug/title.basics.tsv
+/MovieSearch/title.akas.tsv
+/MovieSearch/title.basics.tsv
