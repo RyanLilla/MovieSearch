@@ -21,16 +21,5 @@ namespace MovieSearch
 
             return query.ToList();
         }
-
-        public static List<MovieExtras> ProcessAkasFile(string path)
-        {
-            var query = from line in File.ReadLines(path).Skip(1)
-                        where line.Length > 1
-                        select MovieExtras.ParseFromTSV(line);
-
-            return query.ToList();
-            Console.WriteLine();
-
-        }
     }
 }

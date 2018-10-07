@@ -1,0 +1,1001 @@
+Title	Year Released	Runtime	Genre
+Pretty Sweet	1998	2.3	Documentary
+Where the Heart Is	2010	1.9	Comedy|Drama
+Something Is Happening (Kuch Kuch Hota Hai)	1988	1.5	Comedy|Musical|Romance
+Choke	2008	1.3	Documentary
+I, Madman	2013	1.4	Horror
+Winter Solstice	2000	1.4	Drama
+This Woman Is Dangerous	2002	1.9	Crime|Drama
+Murder on a Sunday Morning (Un coupable idéal)	2012	1.0	Documentary
+Starstruck	2000	1.8	Comedy|Musical
+Mouth to Mouth	2002	1.7	Drama
+Synth Britannia	2008	1.0	Documentary
+Legion of the Dead	2012	1.5	Comedy|Horror
+Caught Up	1998	2.4	Crime
+Grass: A Nation's Battle for Life	2012	1.5	Documentary
+Through and Through (Na wylot)	2011	1.2	Crime
+Godfather: Part III, The	2006	1.0	Crime|Drama|Mystery|Thriller
+Blackball	1997	2.0	Comedy|Drama
+Fly, The	1999	1.6	Horror|Mystery|Sci-Fi
+Get Bruce	1986	1.7	Documentary
+Shaun of the Dead	2011	1.5	Comedy|Horror
+Church, The (Chiesa, La)	2010	2.1	Drama|Fantasy|Horror
+Without a Clue	2004	1.1	Comedy|Mystery
+Paddington	1986	1.5	Children|Comedy
+Bulworth	2009	1.6	Comedy|Drama|Romance
+Hen, his wife	2010	1.2	(no genres listed)
+Blood of Heroes, The (Salute of the Jugger, The)	2008	1.8	Action|Sci-Fi
+Tremors 3: Back to Perfection	1992	1.8	Comedy|Horror|Sci-Fi
+Taxidermia	1997	1.4	Comedy|Drama|Horror
+Ladrones	2010	2.0	Drama
+Libeled Lady	2002	1.8	Comedy|Romance
+Shadow of the Vampire	2011	2.4	Drama|Horror
+Bolivia	2003	1.8	Drama
+Une étudiante d'aujourd'hui	2002	2.5	Documentary
+Striking Range	1990	1.9	Action|Thriller
+Highlander	2003	1.9	Action|Adventure|Fantasy
+I Wish (Kiseki)	1998	2.4	Children|Drama
+Cold Comfort Farm	1965	1.9	Comedy
+Saw	1992	1.3	Horror|Mystery|Thriller
+Dirty Deeds	2005	1.1	Action|Comedy|Crime
+Mr. Troop Mom	1993	1.8	Children|Comedy
+Shadow People	2007	2.5	Drama
+Comrade Pedersen (Gymnaslærer Pedersen)	1999	2.3	Drama
+Ikigami	2011	2.1	Action|Drama|Mystery|Thriller
+Yes: 9012 Live	1995	2.4	Documentary|Musical
+The Very Thought of You	2011	1.1	Drama|Romance
+Richard III	2010	2.2	Drama|War
+Strange Behavior	2006	1.4	Horror|Mystery|Thriller
+Man Who Knew Too Little, The	2011	2.1	Comedy|Crime|Thriller
+Signs	2004	1.3	Horror|Sci-Fi|Thriller
+Goddess, The (Shen nu)	1993	1.3	Drama
+For Me and My Gal	2011	2.0	Drama|Musical|Romance
+Nightmaster (Watch the Shadows Dance)	2008	1.6	Action
+31 North 62 East	1994	2.0	Thriller
+Man Who Loved Women, The (Homme qui aimait les femmes, L')	1999	2.1	Comedy|Drama|Romance
+Dragon Day	1998	1.2	Drama|Sci-Fi|Thriller
+Big Lift, The	1986	2.1	Drama|War
+Locals, The	1995	1.6	Horror|Thriller
+Kill! (Kiru)	1995	1.3	Action|Comedy|Drama
+Living with Wolves	2000	1.3	Documentary
+Road to Brown, The	2003	1.8	Documentary
+Buried Alive	1993	1.5	Film-Noir|Horror|Thriller
+Generation Iron	1992	1.1	Documentary
+Kingpin	1988	1.9	Comedy
+Stag Night	1975	1.6	Horror|Thriller
+21 and Over	1993	1.1	Comedy
+Latin Music USA	2001	2.3	Documentary|Musical
+Nightmare on Elm Street 4: The Dream Master, A	2002	1.1	Horror|Thriller
+Samurai (Samourais)	2013	1.4	Action
+Out of the Clear Blue Sky	2009	2.3	Documentary
+About Adam	1992	1.6	Comedy
+Time to Leave	1994	1.1	Drama
+Three Way	2000	1.0	Crime|Drama|Thriller
+Mr. Turner	2010	1.5	Drama
+Living Skeleton, The (Kyûketsu dokuro-sen)	1990	2.4	Horror
+Fanboys	2000	2.1	Adventure|Comedy|Drama
+Blaise Pascal	2000	1.1	Drama
+Dark Horse, The	2009	2.4	Drama
+3 Ninjas Knuckle Up	1998	2.3	Action|Children
+Loaded	2007	1.1	Action|Crime|Drama|Thriller
+Secret Six, The	1990	2.4	Crime
+Lemonade Joe (Limonádový Joe aneb Konská opera)	2001	2.2	Adventure|Comedy|Musical|Romance|Western
+Talk of Angels	1997	1.4	Drama
+Dawn of the Dead	1995	1.2	Action|Drama|Horror
+Close My Eyes	2009	2.1	Drama|Romance
+Oh, Sun (Soleil O)	1987	2.1	Drama
+Sound of Redemption: The Frank Morgan Story	2010	1.1	Documentary|Drama|Musical
+King in New York, A	1990	2.4	Comedy|Drama
+Whip and the Body, The (Frusta e il corpo, La)	1997	2.2	Horror
+High Spirits	2007	1.2	Comedy
+Project A 2 ('A' gai wak juk jap)	2010	1.5	Action|Comedy|Crime
+Something Real and Good	2008	1.3	Drama
+Promised Land	1992	2.2	Drama
+Misérables, Les	1995	1.5	Drama|War
+Don't Tell Anyone (No se lo digas a nadie)	1993	2.4	Comedy|Drama
+Snake and Mongoose	1994	1.1	Drama
+Nancy Drew: Detective	2000	1.6	Comedy|Mystery
+Hell Without Limits (Lugar sin límites, El)	1999	1.5	Drama
+Nobody Knows (Dare mo shiranai)	1984	1.6	Drama
+Mackintosh Man, The	2012	1.8	Action|Drama|Thriller
+Riot on Sunset Strip	2006	1.8	Drama
+Armstrong Lie, The	2003	1.2	Documentary
+Who Killed Vincent Chin?	1995	2.1	Crime|Documentary
+Love Stinks	2007	2.0	Comedy
+Taps	1992	1.2	Drama
+Wuthering Heights	2003	1.2	Drama|Romance
+Robot Monster	1999	2.4	Horror|Sci-Fi
+County Teacher, The (Venkovský ucitel)	2003	2.0	Drama
+Pure	1997	2.3	Drama
+Walk the Line	2008	2.3	Drama|Musical|Romance
+Wallace & Gromit: A Close Shave	1992	2.0	Animation|Children|Comedy
+Fever Pitch	2008	1.8	Comedy|Romance
+Sgt. Bilko	2008	1.4	Comedy
+Captive, The	2009	1.7	Crime|Drama|Thriller
+Rugrats in Paris: The Movie	2009	1.7	Animation|Children|Comedy
+Daredevil	2002	2.1	Action|Crime
+House of Sand (Casa de Areia)	1997	2.1	Drama
+Outer Space	1998	1.5	Animation|Horror
+Mission London	2003	2.1	Comedy
+Our Blushing Brides	2004	1.9	Drama
+Old Yeller	2005	2.5	Children|Drama
+Anima Mundi	1994	2.5	Documentary
+Empire of the Sun	2009	2.2	Action|Adventure|Drama|War
+Burn! (Queimada)	2011	1.5	Drama|Thriller
+Texas Chainsaw Massacre 2, The	1992	1.2	Horror
+Fort McCoy	1995	1.0	(no genres listed)
+Price of Milk, The	1998	1.3	Comedy|Drama|Fantasy|Romance
+Gore Gore Girls, The	1991	1.8	Comedy|Horror|Mystery
+Female	1992	1.5	Comedy|Drama|Romance
+Click	1997	2.1	Adventure|Comedy|Drama|Fantasy|Romance
+Paris 36 (Faubourg 36)	1948	2.2	Drama|Musical|Romance
+Alvin and the Chipmunks	2009	1.7	Children|Comedy
+Dry Cleaning (Nettoyage à sec)	2001	1.9	Drama
+Queen Margot (Reine Margot, La)	1987	1.6	Drama|Romance
+Shootist, The	1988	1.2	Drama|Western
+Horton Hears a Who!	2003	1.3	Adventure|Animation|Children|Comedy
+Secret of My Succe$s, The (a.k.a. The Secret of My Success)	2001	1.8	Comedy|Romance
+Sut (Milk)	1987	1.0	Drama
+Shooting Dogs (a.k.a. Beyond the Gates)	2009	1.3	Documentary|Drama|War
+At Home by Myself... with You	1998	1.9	Comedy|Romance
+Cyborg	2008	2.2	Action|Sci-Fi
+My Fellow Americans	1987	1.7	Comedy
+Running	2005	2.1	Drama
+My Brother Is an Only Child (Mio fratello è figlio unico)	2010	1.9	Comedy|Crime|Drama
+Fever Pitch	1988	1.4	Comedy|Romance
+Othello (Tragedy of Othello: The Moor of Venice, The)	1998	2.1	Drama
+Out Late 	1996	1.6	Documentary
+God Grew Tired of Us	1986	1.1	Documentary|Drama
+Topaze	1995	1.8	Comedy
+Cesar Chavez	2012	2.4	Drama
+Straight Talk	2006	2.3	Comedy
+Wildcats	2003	2.0	Comedy
+Cinderella	2005	1.5	Children|Fantasy|Musical|Romance
+Jude the Obscure	2006	1.1	Drama
+Man Between, The	2012	1.2	Drama|Film-Noir|Romance|Thriller
+Samurai Rebellion (Jôi-uchi: Hairyô tsuma shimatsu)	1996	1.2	Action|Drama
+Fire in Castilla (Tactilvision from the Moor of the Fright)	2003	1.4	Documentary
+Doubt	2008	1.1	Drama|Mystery
+Castle Freak	1996	2.1	Horror
+Independents	1986	1.4	Documentary
+Loco Love (Mi Casa, Su Casa)	2012	2.3	Comedy
+Profound Desires of the Gods (Kamigami no fukaki yokubo) 	2011	2.2	Drama
+Concepción Arenal, la visitadora de cárceles	2010	1.6	Drama
+Welcome, or No Trespassing	1992	2.4	Children|Comedy
+O	1995	1.1	Drama
+Misérables, Les	1995	1.1	Crime|Drama|Romance|War
+High Art	2004	1.6	Drama|Romance
+V/H/S/2	1994	1.1	Horror|Thriller
+May in the Summer	1990	1.8	Comedy|Drama
+Godson, The	1997	2.4	Comedy|Crime
+Mongol	2009	1.2	Drama|War
+Identity	2006	2.4	Crime|Horror|Mystery|Thriller
+Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein)	1993	1.0	Drama|Horror|Sci-Fi
+Mushrooming (Seenelkäik)	2003	2.1	Adventure|Comedy|Thriller
+Private Resort	2004	1.2	Comedy
+Right at Your Door	2002	1.8	Drama|Thriller
+Heavy Metal	2004	2.3	Action|Adventure|Animation|Horror|Sci-Fi
+Stars	2003	1.8	Drama|War
+When the Road Bends: Tales of a Gypsy Caravan	1993	2.1	Documentary
+Kremlin Letter, The	2008	2.5	Drama|Thriller
+Tuulikaappimaa	2008	1.5	Comedy
+Cat o' Nine Tails, The (Gatto a nove code, Il)	1988	2.3	Mystery|Thriller
+CSNY Déjà Vu	2005	2.1	Documentary
+Red Cliff Part II (Chi Bi Xia: Jue Zhan Tian Xia)	2008	1.4	Action|Drama|War
+Mysteries of Pittsburgh, The	2000	2.2	Adventure|Comedy|Drama
+Zift	2004	1.6	Crime|Drama|Mystery
+Rent-a-Cat	2006	2.3	Comedy|Drama
+Beautiful Ohio	2003	1.8	Comedy|Drama
+Busting	1996	2.2	Crime|Drama
+Breaking the Maya Code	1998	1.2	Documentary
+Voyage to the End of the Universe (Ikarie XB 1)	1972	2.1	Sci-Fi
+Horseman, The	1995	2.3	Crime|Thriller
+Sheitan	2010	1.2	Comedy|Horror|Thriller
+Martha	2008	1.2	Drama|Thriller
+Mea Maxima Culpa: Silence in the House of God	1959	2.4	Documentary
+8 (8, the Play)	1965	1.8	Drama
+Seize the Day	1994	1.1	Drama
+Little Lord Fauntleroy	2007	1.4	Children|Drama|Romance
+Man Called Horse, A	1994	2.1	Adventure|Drama|Western
+Black Sheep (Schwarze Schafe)	1995	1.0	Comedy
+Clown, The	2007	1.1	Comedy|Drama
+Angry Red Planet, The	2012	1.4	Sci-Fi
+B.U.S.T.E.D (Everybody Loves Sunshine) (Busted)	2009	2.1	Crime|Drama
+One Million Years B.C.	2012	1.8	Adventure|Fantasy
+Under the Bridges (Unter den Brücken)	1960	1.5	Comedy|Drama|Romance
+Enemy Within, The (O ehthros mou)	2013	1.7	Drama
+Hallelujah Trail, The	2000	1.8	Comedy|Western
+Stakeout on Dope Street	1998	1.9	Crime|Drama
+Beach Blanket Bingo	1989	2.4	Comedy|Musical
+Grease	1979	1.5	Comedy|Musical|Romance
+Goats	2008	1.5	Comedy
+In Crowd, The	1993	1.9	Thriller
+Fireflies in the Garden	1984	1.6	Drama
+Am Ende eiens viel zu kurzen Tages (Death of a superhero)	2006	1.7	Animation|Drama
+Eva (a.k.a. Eve)	2007	2.1	Drama
+Sense of History, A	2001	2.0	Comedy|Crime|Drama
+Red Salute	2003	1.4	Comedy|Romance
+Big Animal (Duze zwierze)	2000	1.4	Comedy|Drama
+W.	2007	2.1	Drama
+Running Man, The	2004	1.2	Action|Sci-Fi
+Gerontophilia	1992	1.1	Comedy|Romance
+Class of 1999	1987	2.4	Action|Horror|Sci-Fi
+Strapped	2008	2.5	Action|Drama
+Canyon Passage	1992	1.7	Action|Romance|Western
+Deliver Us from Evil	1992	2.4	Crime|Horror|Thriller
+Doctors' Wives	1987	2.1	Drama
+Black Book (Zwartboek)	2001	2.3	Drama|Thriller|War
+Backdraft	2002	1.6	Action|Drama
+Undisputed II: Last Man Standing	2013	2.0	Action|Crime|Drama
+Tammy and the Bachelor	2007	2.1	Musical|Romance
+Dark House	1994	1.4	Horror|Thriller
+27 Club, The	1991	1.3	Drama
+Fairy, The (La fée) 	1991	2.3	Comedy|Drama
+Divorce American Style	2004	1.8	Comedy
+Grateful Dawg	1997	1.1	Documentary
+Eros	2002	1.8	Drama
+Fine Madness, A	2004	2.2	Comedy|Drama|Romance
+Unfaithful	1991	1.3	Drama|Thriller
+Incredible Burt Wonderstone, The	1993	1.1	Comedy
+American Tail: Fievel Goes West, An	1999	1.6	Adventure|Animation|Children|Musical|Western
+Troma's War 	2006	2.2	Action|Adventure|Comedy
+Georgy Girl	1988	1.4	Comedy
+Gen 13 (a.k.a. Gen13: The Animated Movie)	1994	1.6	Action|Animation|Sci-Fi
+Metro Manila	2006	1.9	Action|Crime|Drama
+See You Tomorrow, Everyone	2008	2.4	Drama
+Begone Dull Care	1995	1.4	Animation
+Blood Work	1999	1.6	Crime|Drama|Mystery|Thriller
+Falls, The	1996	2.0	Drama|Sci-Fi
+Suicide Club (Jisatsu saakuru)	1992	1.1	Horror|Mystery|Thriller
+Remember the Night	1990	1.0	Comedy|Drama|Romance
+Zodiac	1995	1.4	Crime|Drama|Thriller
+Strip Search	1985	1.1	Drama
+Calamari Union	2009	1.9	Comedy
+Glengarry Glen Ross	1992	2.3	Drama
+Muse, The	2007	1.6	Comedy
+Walk Softly, Stranger	2013	1.6	Crime|Drama|Film-Noir|Romance
+True Story	2011	2.1	Drama|Mystery|Thriller
+Killer Meteors, The (Feng yu shuang liu xing)	2009	2.4	Action|Thriller
+21	2010	1.5	Crime|Drama|Romance|Thriller
+Princess Aurora (Orora gongju)	1994	1.5	Crime|Drama|Mystery
+Vice Versa	1999	2.0	Comedy
+My Lady Margarine (Die Austernprinzessin) (Oyster Princess, The)	2006	1.6	Comedy
+Savannah	2002	2.1	Drama|Romance
+Poetical Refugee	2009	2.2	Drama
+There's No Business Like Show Business	2006	1.5	Musical
+The Uncommon Making of Petulia	1997	1.3	Documentary
+Capote	2004	1.6	Crime|Drama
+Adventures of Arsène Lupin, The (Aventures d'Arsène Lupin, Les)	1969	1.6	Crime|Mystery
+We Can Be Heroes	2003	1.3	(no genres listed)
+Castaway	2004	1.1	Adventure|Drama
+Majestic, The	1995	1.2	Comedy|Drama|Romance
+Shadowlands	1984	2.0	Drama|Romance
+Voyage to the Beginning of the World (Viagem ao Princípio do Mundo)	1992	2.3	Drama
+Mission: Impossible - Ghost Protocol	1992	1.8	Action|Adventure|Thriller|IMAX
+Minnie and Moskowitz	2006	1.6	Action
+Strange Case of Dr. Jekyll and Miss Osbourne, The (Dr. Jekyll and His Women) (Docteur Jekyll et les femmes)	1992	2.2	Horror
+Dust of Time, The	2013	1.3	Drama
+Two Cents Worth of Hope (Due soldi di speranza)	1997	1.3	Comedy|Romance
+Crimes of Passion	1989	2.3	Drama|Romance|Thriller
+Orwell Rolls in His Grave	2006	1.2	Documentary
+And Now... Ladies and Gentlemen...	2012	2.1	Romance|Thriller
+Cherry Falls	2004	2.1	Comedy|Horror|Mystery
+Them (Ils)	2000	2.1	Horror
+Night of the Generals, The	2012	2.4	Crime|Drama|Mystery|Thriller|War
+3 Needles	2001	1.9	Drama
+That Cold Day in the Park	1997	1.9	Drama
+Falling Awake	2000	1.3	Romance|Thriller
+Unforgotten: Twenty-Five Years After Willowbrook	2011	1.8	Documentary
+Battles Without Honor & Humanity (Jingi naki tatakai)	2012	1.3	Crime|Drama
+I Dreamed of Africa	2005	2.5	Drama
+Twelve Tasks of Asterix, The (Les douze travaux d'Astérix)	1998	1.6	Action|Adventure|Animation|Children|Comedy|Fantasy
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos	1996	1.7	Documentary
+Nymphomaniac: Volume II	1994	2.5	Drama|Mystery
+His Name Was Jason: 30 Years of Friday the 13th	1996	1.2	Documentary|Horror
+Riviera	1997	2.0	Comedy|Drama
+Blood Beast Terror, The	1985	1.8	Crime|Horror|Mystery
+Train	2005	2.1	Horror|Thriller
+Say Anything...	1992	1.8	Comedy|Drama|Romance
+Hunchback of Notre Dame, The	2004	2.1	Animation|Children|Drama|Musical|Romance
+Girls, Les	1995	1.2	Musical
+TWA Flight 800 	2000	1.1	Documentary
+Flushed Away	2002	1.7	Animation|Comedy
+Super 8 Stories	1958	1.3	Documentary
+Lady is Willing, The	1986	1.8	Comedy|Drama|Romance
+Honor Among Thieves (Adieu l'ami) (Farewell, Friend)	1997	1.1	Action|Adventure|Crime|Drama|Mystery|Thriller
+Nobody's Fool	2012	1.5	Comedy|Drama|Romance
+Baron of Arizona, The	1996	2.5	Drama|Romance|Western
+Peyton Place	1984	2.3	Drama|Romance
+Evil Roy Slade	2006	2.1	Comedy|Western
+Lone Wolf and Cub: White Heaven in Hell (Kozure ôkami: Jigoku e ikuzo! Daigorô)	2003	2.1	Action|Drama|Fantasy
+Gimme the Loot	2004	1.5	Drama
+Dying at Grace	2009	1.5	Documentary
+One Flew Over the Cuckoo's Nest	2008	2.0	Drama
+Seance (Kôrei)	2011	1.7	Drama|Horror|Thriller
+Rain Man	2004	2.1	Drama
+Luna Papa	1993	2.3	Comedy|Drama|Fantasy
+The Uncommon Making of Petulia	2002	1.9	Documentary
+Bengazi	2006	2.5	Adventure|Crime|Drama
+Five Senses, The	2012	1.9	Drama
+Bullets or Ballots	2006	1.8	Crime|Drama|Thriller
+Boy Called Hate, A	2001	2.1	Drama
+Twice Upon a Yesterday (a.k.a. Man with Rain in His Shoes, The)	1989	2.3	Comedy|Drama|Romance
+Journey Beyond Three Seas	1991	1.6	Adventure
+In Crowd, The	2011	1.6	Thriller
+Love Happens	1990	2.1	Comedy|Drama|Romance
+Spirits of the Dead	2012	1.7	Horror|Mystery
+Troll 2	1997	1.7	Fantasy|Horror
+Firecreek	2003	2.0	Western
+12:01	2003	1.1	Comedy|Romance|Sci-Fi|Thriller
+Monday Morning (Lundi matin)	1997	1.4	Comedy|Drama|Romance
+Terry Pratchett: Choosing to Die	1989	1.6	Documentary
+Max Keeble's Big Move	1990	1.5	Children|Comedy
+Reefer Madness (a.k.a. Tell Your Children)	2011	1.3	Comedy|Drama
+G@me	2005	2.1	Thriller
+Children of the Corn: Revelation	2013	1.2	Horror|Thriller
+Tootsie	2009	1.5	Comedy|Romance
+Pain & Gain	2004	1.2	Action|Comedy|Crime
+Cesar & Rosalie (César et Rosalie)	1993	2.1	Comedy|Drama|Romance
+Girl 6	2005	1.5	Comedy|Drama
+Fandry	2012	1.5	Children|Drama
+Camp	1994	2.1	Comedy|Musical
+Tru Confessions	1999	1.2	Children|Comedy|Drama
+Wedding Daze	2009	2.2	Comedy|Romance
+Marriage of Maria Braun, The (Ehe der Maria Braun, Die)	2006	1.8	Drama
+Boy with Green Hair, The	2006	1.9	Children|Drama
+Skin	2003	2.3	Drama|Mystery
+Intentions of Murder (a.k.a. Murderous Instincts) (Akai satsui)	2007	2.1	Drama
+Fugly!	1998	1.9	Comedy
+Friday the 13th Part V: A New Beginning	1998	2.2	Horror
+Encounters at the End of the World	1992	1.6	Documentary
+Mummy's Tomb, The	1992	2.1	Horror
+Building the Inferno: Nobuo Nakagawa and the Making of 'Jigoku'	2010	2.4	Documentary
+For Roseanna (Roseanna's Grave)	2000	1.8	Comedy|Drama|Romance
+Restaurant	1989	1.5	Drama
+Million to Juan, A	2003	2.1	Comedy
+Kids of Survival	1988	1.7	Documentary
+Something in the Air (Apres Mai)	2009	1.8	Action|Drama
+Goat, The	2002	1.5	Comedy
+Under the Rainbow	1984	1.2	Comedy
+Breaker! Breaker!	2006	2.2	Action|Adventure|Crime
+Hell's Highway	2004	1.4	Crime|Drama
+Stranger Among Us, A	2004	2.2	Crime|Drama|Romance
+Floundering	2011	1.9	Comedy
+Hotel New Hampshire, The	1992	1.1	Drama
+Matti: Hell Is for Heroes (Matti)	2010	1.6	Comedy|Drama
+Divorce	2010	2.4	Drama
+Sexual Life	2000	1.2	Romance
+Das Experiment (Experiment, The)	1983	2.3	Drama|Thriller
+Wish I Was Here	2009	2.1	Comedy|Drama
+Dreamers, The	2012	1.3	Drama
+Ponyo (Gake no ue no Ponyo)	1985	1.1	Adventure|Animation|Children|Fantasy
+World According to Monsanto, The (monde selon Monsanto, Le)	1999	2.3	Documentary
+Lilla Jönssonligan och Cornflakeskuppen	2011	1.1	Children|Comedy
+Harry Potter and the Goblet of Fire	2008	1.7	Adventure|Fantasy|Thriller|IMAX
+When in Rome	1985	1.3	Children|Comedy
+Where the Boys Are '84	1993	1.6	Comedy
+Teddy Bears' Picnic	2012	2.5	Comedy
+Emperor's New Groove 2: Kronk's New Groove, The	2003	2.2	Animation|Children|Comedy
+Puss in Boots: The Three Diablos	2001	1.4	Animation|Comedy
+Front of the Class	2008	1.3	Drama
+You Can Count on Me	2000	2.1	Drama|Romance
+Price Above Rubies, A	2002	2.2	Drama
+Clearing, The	2011	2.2	Drama|Thriller
+Ishq	2006	2.1	Action|Comedy|Drama|Musical|Romance
+Simon Sez	1991	1.1	Action|Comedy
+The Devil and the Holy Water	2011	1.4	Comedy
+Space Milkshake	2013	1.7	Comedy|Sci-Fi
+Octopus, The (Le poulpe)	2012	1.2	Comedy|Crime|Thriller
+Killshot	2011	1.0	Action|Crime|Drama|Thriller
+Troll 2	1990	1.3	Fantasy|Horror
+Slums of Beverly Hills, The	2011	1.9	Comedy|Drama
+Journey to the Sun (Günese yolculuk)	2006	1.6	Drama
+Sisters, The	1997	2.4	Drama
+Hyde Park on Hudson	1987	1.3	Comedy|Drama
+Cure, The	2007	2.2	Drama
+Three Wise Men (Kolme viisasta miestä)	1993	1.4	Drama
+Hickey and Boggs	2008	2.3	Crime|Drama|Film-Noir|Thriller
+Syrian Bride, The	2005	1.6	Drama
+Fidel	2000	1.4	Documentary
+Pet, The	2006	1.3	Drama|Thriller
+Star Trek	1997	2.4	Action|Adventure|Sci-Fi|IMAX
+Zaat	1999	1.9	Fantasy|Horror|Sci-Fi
+$ (Dollars)	1969	1.7	Comedy|Crime|Drama
+Young Ones	1998	1.0	Drama|Sci-Fi|Western
+Men Cry Bullets	2003	1.2	Comedy|Drama
+Naked Lunch	1997	2.3	Drama|Fantasy|Mystery|Sci-Fi
+Music Man, The	1993	1.8	Comedy|Drama|Musical|Romance
+Madame Bovary	2009	1.5	Drama
+Porn Theater (Chatte à deux têtes, La)	2009	1.0	Drama
+Death Defying Acts	2010	2.3	Drama|Romance|Thriller
+You Again	1993	1.8	Comedy
+Score: A Hockey Musical	1985	2.1	Comedy|Musical
+The Butter Battle Book	1995	1.9	Animation|Children
+Scar, The (Blizna)	2009	1.5	Drama
+W.R.: Mysteries of the Organism	2012	2.1	Comedy|Documentary
+Maiden's Cheek (To xylo vgike apo ton Paradeiso)	2002	1.5	Comedy|Romance
+Bride Wars	1988	2.3	Comedy|Romance
+Toy, The	2001	1.8	Comedy
+Who Are you Polly Maggoo (Qui êtes-vous, Polly Maggoo?)	2005	2.0	Comedy
+Cast a Dark Shadow (Angel)	2005	1.5	Thriller
+Notebook, The	2010	1.2	Drama|Romance
+Warm Water Under a Red Bridge (Akai hashi no shita no nurui mizu)	1999	1.9	Comedy|Drama
+Parallel Sons	2001	1.1	Drama|Romance
+Crush, The (La cotta)	2003	1.0	Romance
+Avalon	2010	1.8	Drama|Fantasy|Sci-Fi
+Anna Lucasta	2008	1.6	Drama
+Bright Future (Akarui mirai)	2004	1.8	Drama
+Scream of Stone (Cerro Torre: Schrei aus Stein)	2002	1.5	Drama
+Birders: The Central Park Effect (Central Park Effect, The)	2012	1.3	Documentary
+Look Who's Talking	1985	1.2	Comedy|Romance
+War You Don't See, The	2002	1.8	Documentary
+Fluke	2007	1.4	Children|Drama
+52 Tuesdays	2010	2.2	Children|Drama
+Ricky & Barabba	1990	2.3	Comedy
+Past Midnight	2010	1.1	Horror|Thriller
+Eden	2010	2.0	Drama|Romance
+Love of Siam, The (Rak haeng Siam)	1986	2.2	Drama|Mystery|Romance
+The Hunters	2008	1.3	Adventure
+Hang 'Em High	1985	1.8	Crime|Drama|Western
+Best Foot Forward	1991	2.0	Comedy|Musical
+Torrente 4: Lethal Crisis	2004	2.2	Action|Comedy|Crime
+Point, The	2000	1.7	Animation|Children|Fantasy|Musical
+Holy Guests (Ha-Ushpizin)	1995	2.1	Drama
+Bridges at Toko-Ri, The	2006	1.3	Drama|Romance|War
+Soviet Story, The	2007	1.1	Documentary
+Marathon Family, The (Maratonci Trce Pocasni Krug)	2011	1.8	Comedy
+Mexican, The	2008	1.2	Action|Comedy
+Clint Eastwood: Out of the Shadows	1999	1.7	Documentary
+Johnny Express	2004	2.0	Animation|Comedy|Sci-Fi
+Wend Kuuni (a.k.a. God's Gift)	2004	2.4	Drama
+Swan, The	1997	2.5	Comedy|Drama|Romance
+Kill a Rat	2007	2.3	Crime|Drama|Mystery
+My Way (Mai Wei)	1997	2.0	Action|Drama|War
+Brother's Kiss, A	1993	1.7	Drama
+The New Babylon	2008	1.9	Drama
+Travelling Salesman	1988	1.7	Drama|Mystery|Sci-Fi|Thriller
+Goddess (Devi)	2009	1.4	Drama
+Charlie Chan in Honolulu	2008	2.2	Comedy|Crime|Horror|Mystery|Thriller
+Love's Long Journey	1991	2.2	Drama|Romance|Western
+Murder in the First	2012	2.3	Drama|Thriller
+First Daughter	2000	1.1	Comedy|Romance
+Sitter, The	2003	2.0	Comedy
+Lord of the Rings, The	1984	1.4	Adventure|Animation|Children|Fantasy
+Restraint	1987	1.6	Drama|Thriller
+Slaughterhouse	2000	1.5	Comedy|Horror
+Pay or Die	2008	1.5	Crime
+Waltz with Bashir (Vals im Bashir)	2012	2.2	Animation|Documentary|Drama|War
+House of Strangers	2001	1.4	Drama|Film-Noir
+Mother Küsters Goes to Heaven (Mutter Küsters' Fahrt zum Himmel)	2012	1.3	Drama
+Cialo	1989	1.9	Comedy|Crime
+Cats Don't Dance	2008	1.2	Animation|Children|Musical
+Turbo: A Power Rangers Movie	1999	1.6	Action|Adventure|Children
+Home Movie	2006	2.1	Documentary
+Halloween II	2002	1.1	Horror
+Hard to Be a God	2013	2.3	Sci-Fi
+Métisse (Café au Lait)	2009	1.5	Comedy|Drama
+Kummeli Alivuokralainen	2002	1.8	Comedy
+Something the Lord Made	1989	1.2	Drama
+Curse of the Oily Man (Sumpah orang minyak) 	1997	1.7	Drama|Fantasy|Thriller
+For Love or Country: The Arturo Sandoval Story	2000	2.4	Drama|Musical
+Joe	1988	2.0	Drama
+Roll Bounce	2001	1.8	Comedy|Drama|Romance
+Hatchet III	2000	1.8	Comedy|Horror
+March of the Movies (Film Parade, The)	1994	1.2	Documentary
+Into the Storm	1998	2.2	Drama|War
+Great Stone Face, The	1988	1.1	Documentary
+Big Man Japan (Dai-Nihonjin)	2011	1.3	Comedy|Sci-Fi
+Praise	2010	1.2	Drama
+Story of O, The (Histoire d'O)	1992	1.4	Drama|Romance
+Life and Times of Judge Roy Bean, The	2011	2.1	Comedy|Western
+This Girl's Life	2001	1.5	Drama
+Taqwacore: The Birth of Punk Islam	1994	2.2	Documentary
+Deal, The	1994	2.0	Comedy
+Shall We Dance? (Shall We Dansu?)	2007	1.4	Comedy|Drama|Romance
+Shout	1985	1.6	Drama
+Prince of Jutland (a.k.a. Royal Deceit)	2007	2.1	Drama
+The Gamers	1992	2.1	Adventure|Comedy|Fantasy
+Dirty Dingus Magee	1991	2.0	Comedy|Western
+Red Dawn	1992	1.3	Action|War
+Soldier's Daughter Never Cries, A	2010	1.7	Drama
+Omega Doom	1988	2.0	Sci-Fi
+Reincarnation	1999	1.8	Horror|Mystery
+2016: Obama's America	1997	1.9	Documentary
+Superheroes	1986	2.1	Action|Comedy|Documentary|Drama
+Bridges of Madison County, The	2009	1.1	Drama|Romance
+Mélo	1995	1.3	Drama|Romance
+Exhibition	2005	2.4	Drama
+Gitarrmongot	1983	1.6	Drama
+Ain't Them Bodies Saints	2010	2.5	Drama
+Mystery Science Theater 3000: The Movie	2009	1.3	Comedy|Sci-Fi
+Expelled: No Intelligence Allowed	2004	1.8	Documentary
+I Wake Up Screaming	1992	1.9	Crime|Film-Noir|Mystery|Romance|Thriller
+Country Bears, The	2009	2.1	Children|Comedy
+I Love, You Love (Ja milujem, ty milujes)	2004	1.1	Comedy|Drama|Romance
+Hunting Party, The	2009	1.4	Action|Drama|Western
+Men Don't Leave	2002	1.7	Drama
+Homecoming, The	1977	2.3	Drama
+O Brother, Where Art Thou?	1992	1.8	Adventure|Comedy|Crime
+Tenth Man, The	2011	2.5	Drama|War
+Cradle of Fear	1989	2.0	Crime|Drama|Horror|Mystery|Thriller
+At the River I Stand	2000	1.0	Documentary
+Crossroads	2011	1.8	Crime|Drama|Film-Noir
+Budd Boetticher: An American Original 	2011	1.2	Documentary
+God told Me To	1999	1.9	Crime|Horror|Mystery|Sci-Fi|Thriller
+Great Caruso, The	2007	1.9	Drama|Musical
+Burning Palms	1997	2.3	Comedy|Drama
+Easier with Practice	2004	2.4	Drama|Romance
+Silk	1998	1.1	Adventure|Drama|Romance
+Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô)	1996	1.6	Action|Adventure|Animation
+Under the Bridges (Unter den Brücken)	2007	2.0	Comedy|Drama|Romance
+Men with Brooms	1994	1.9	Comedy|Drama|Romance
+Kiss of the Spider Woman	2002	1.4	Drama
+King of Devil's Island (Kongen av Bastøy) 	2004	1.8	Action|Drama
+Eden	2011	1.2	Drama|Romance
+Casanova '70	1987	2.2	Comedy|Drama
+Letter From Death Row, A	2009	2.0	Crime|Drama
+Après lui	1994	1.6	Drama
+Place Called Chiapas, A	1997	1.3	Documentary
+How to Draw a Bunny	1995	1.8	Documentary
+French Minister, The (Quai d'Orsay)	1993	1.4	Comedy
+Rollerball	1992	1.2	Action|Sci-Fi
+Way Out West	2001	2.2	Comedy|Western
+Lesson Plan 	2008	1.1	Documentary
+Terror in a Texas Town	2005	1.3	Western
+Touch of Zen, A (Xia nu)	2005	2.1	Action|Adventure
+Police Academy 4: Citizens on Patrol	1997	1.2	Comedy|Crime
+Elephant	2001	1.4	Drama
+Let Fury Have the Hour	1987	1.7	Documentary
+Dream With the Fishes	2005	1.8	Drama
+World according to Ion B., The (Lumea vazuta de Ion B)	2009	1.7	Documentary
+Into the White (Cross of Honour)	2004	1.3	Action|Drama|War
+They All Laughed	1984	1.5	Comedy
+Mountaintop Motel Massacre 	1993	1.9	Horror|Thriller
+Journey for Margaret	2001	1.6	Drama|War
+Winnie the Pooh and a Day for Eeyore	2003	1.1	Animation|Children
+Dunwich Horror, The	1987	1.2	Horror
+The Youngest Profession	2009	1.2	Comedy|Romance
+Geek Charming	2005	1.3	Comedy
+At the Circus	2010	2.2	Comedy|Musical
+Cabaret	2009	1.3	Drama|Musical
+Beyond the Mat	1996	1.9	Documentary
+5,000 Fingers of Dr. T, The	2008	1.8	Children|Fantasy|Musical
+Ron Clark Story, The	2009	2.0	Drama
+Not Without My Daughter	2011	1.2	Drama
+Keeping Up with the Steins	2007	1.6	Comedy
+Bench, The (Bænken)	2012	2.4	Drama
+Manxman, The	2001	1.8	Drama
+Masquerade	2007	1.9	Mystery|Romance|Thriller
+City, The (Ciudad, La)	2005	1.7	Drama
+Carter, The	2003	1.6	Documentary
+Stendhal Syndrome, The (Sindrome di Stendhal, La)	2007	2.0	Crime|Horror|Thriller
+Pearls of the Deep (Perlicky na dne)	1999	1.1	Comedy
+Eye for an Eye	2012	1.9	(no genres listed)
+Thing, The	2007	1.6	Horror|Mystery|Sci-Fi|Thriller
+Zelig	1994	1.0	Comedy
+Gregory Crewdson: Brief Encounters	1996	1.9	Documentary|Drama
+Charlie Chan at Treasure Island	2009	1.8	Comedy|Crime|Horror|Mystery|Thriller
+Pornstar: The Legend of Ron Jeremy	2011	2.4	Documentary
+Love Ranch	2011	2.2	Comedy|Drama|Romance
+Believe Me	1985	1.7	Comedy|Drama
+Word Wars	2010	1.8	Comedy|Documentary|Drama
+Pirates! Band of Misfits, The	2012	2.1	Adventure|Animation|Children|Comedy
+Mr. Warmth: The Don Rickles Project	2005	1.6	Documentary
+My Bloody Valentine 3-D	2011	1.3	Horror|Thriller
+American Mary	2012	2.3	Horror|Thriller
+Guide for the Married Man, A	2000	2.1	Comedy
+Wind with the Gone (El viento se llevó lo qué)	2009	1.9	Comedy|Drama
+No Blood Relation (Stepchild, The) (Nasanunaka)	1994	2.2	Drama
+Backwood Philosopher (Havukka-ahon ajattelija)	2010	1.0	Comedy|Drama
+Dream (Bi-mong)	1994	2.1	Drama|Fantasy|Mystery|Romance
+Funny Thing Happened on the Way to the Forum, A	2010	1.2	Comedy|Musical
+Crimes Against Humanity	1994	2.0	Comedy
+Interceptor	2006	2.1	Action|Sci-Fi
+Chocolate Soldier, The	1995	1.9	Comedy|Musical
+Assault on Wall Street 	2003	1.9	Drama|Thriller
+Sokkotanssi	1986	1.1	Comedy|Drama
+Animal Crackers	2013	1.2	Comedy|Musical
+Two Brothers (Deux frères)	2006	1.8	Adventure|Children|Drama
+Inhale	2000	2.1	Drama|Thriller
+1991: The Year Punk Broke	1996	2.1	Documentary
+Contract Killers	2005	1.1	Action|Adventure|Thriller
+By the Bluest of Seas (U samogo sinego morya)	1993	1.1	Drama
+Boys Diving, Honolulu	1996	2.4	Documentary
+Star Wars Uncut: Director's Cut	2006	1.7	Action|Animation|Comedy|Sci-Fi|Western
+Ice Poison	2012	2.1	(no genres listed)
+Right Stuff, The	1986	1.9	Drama
+War of the Gargantuas, The (Furankenshutain no kaijû: Sanda tai Gaira)	1977	1.9	Horror|Sci-Fi
+Capitalism: A Love Story	1995	1.3	Documentary
+Twins	2007	2.1	Comedy
+Muppet Christmas Carol, The	1997	1.2	Children|Comedy|Musical
+Lightning Bolt: The Power of Salad	2004	1.0	Documentary
+Girlfriend Experience, The	2008	1.9	Drama
+Love Life	1992	1.5	Comedy|Romance
+Stranger in Me, The (Das Fremde in mir)	1986	2.0	Drama
+Starving Games, The	2009	1.5	Comedy
+Voices of a Distant Star (Hoshi no koe)	2008	1.3	Animation|Drama|Romance|Sci-Fi
+Wuthering Heights	1989	2.1	Drama|Romance
+Birdman of Alcatraz	2002	2.0	Drama
+Giallo	2006	2.0	Crime|Horror|Thriller
+I Still Know What You Did Last Summer	2009	1.4	Horror|Mystery|Thriller
+The Magical Legend of the Leprechauns	2001	1.7	Adventure|Children|Comedy|Fantasy|Romance
+Alligator Eyes	1992	1.5	Drama|Film-Noir|Mystery
+The Hatchet Man	1993	1.7	Crime|Drama
+2019: After the Fall of New York	2007	2.2	Action|Horror|Sci-Fi
+Frankie and Johnny	2002	1.3	Comedy
+White Fang (Zanna Bianca)	2004	1.5	Adventure
+There's No Business Like Show Business	1992	2.4	Musical
+Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)	2001	2.2	Crime|Drama
+My Beautiful Dacia (Dacia, dragostea mea)	2006	1.6	Documentary
+In Dreams	1989	2.1	Horror|Thriller
+King of Devil's Island (Kongen av Bastøy) 	2006	1.4	Action|Drama
+Savages, The	1996	2.2	Comedy|Drama
+You May Not Kiss the Bride	2005	1.1	Action|Comedy|Crime|Romance
+We Are from the Future (My iz budushchego)	2001	2.0	Action|Drama|Fantasy
+Giant	1995	2.3	Drama|Romance|Western
+Finisterrae	2010	1.1	(no genres listed)
+Wrestling (Bræðrabylta)	1966	2.3	Drama|Romance
+The Lunchbox	2012	2.1	Drama|Romance
+Great Train Robbery, The	1985	1.0	Crime|Western
+American Violet	2008	1.0	Drama
+To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence)	2002	1.2	Comedy|Drama
+Spirit of St. Louis, The	1997	1.6	Adventure|Drama
+The Spiritual Boxer	1995	2.1	Action|Comedy|Drama
+Just Add Water	1950	1.4	Comedy|Romance
+Innocent Lies	2008	1.7	Drama|Mystery|Thriller
+Last Tango in Paris (Ultimo tango a Parigi)	2000	2.5	Drama|Romance
+Children's Hour, The	2009	1.4	Drama
+Internal Affairs	2008	1.8	Crime|Thriller
+Jesse Stone: Benefit of the Doubt	2000	2.4	Crime|Drama
+Lie, The	1999	1.6	Drama
+Get Thrashed: The Story of Thrash Metal	1996	2.2	Documentary
+Married to the Mob	2007	1.4	Comedy
+Charming Mass Suicide, A (Hurmaava joukkoitsemurha)	1993	1.1	Comedy
+Fire and Ice	1999	1.8	Animation|Fantasy
+How Do You Know	2007	2.3	Comedy|Drama|Romance
+Back to the Future	1999	1.5	Adventure|Comedy|Sci-Fi
+Action Jackson	1995	1.9	Action|Comedy|Crime|Thriller
+Walk Among the Tombstones, A	2001	1.9	Action|Crime|Mystery|Thriller
+Rough House, The	2006	2.4	Comedy
+Waiting Room, The	2011	2.2	Drama|Romance
+Whatever Happened to Aunt Alice?	2000	1.9	Crime|Thriller
+Black Rose Ascension (Kurobara shôten)	2013	1.2	Drama
+Frontier of the Dawn (La frontière de l'aube)	2001	1.9	Drama
+To Be King (Koning van Katoren)	2011	1.4	Adventure
+Phaedra	1993	1.8	Drama
+Wetherby	2002	2.0	Drama
+Sometimes They Come Back... Again	1988	1.7	Horror
+Five Wives, Three Secretaries and Me	1998	2.0	Documentary
+Barabbas	2004	2.2	Drama
+Edmond	2011	2.3	Drama|Thriller
+Into the Middle of Nowhere	2007	1.2	Adventure|Children|Comedy|Documentary|Drama
+Fury	1996	2.4	Drama|Film-Noir
+Murders in the Zoo	1994	1.2	Crime|Horror|Mystery
+Alucarda	1989	1.3	Horror|Thriller
+The Amazing Screw-On Head	2007	1.8	Action|Adventure|Animation|Comedy|Sci-Fi
+Sombre	1990	1.9	Drama|Horror
+Love Object	1998	2.2	Comedy|Drama|Horror|Romance|Thriller
+Cost of Oil: Voices from the Arctic, The	2001	1.2	Documentary
+Someone Like You (Unnaipol Oruvan)	2005	2.1	Crime|Drama
+The Baker's Wife	2004	1.8	Comedy|Drama
+Eden Lake	2012	2.3	Horror|Thriller
+Outside the Law	2010	1.7	Action
+Tall T, The	1994	1.6	Western
+Our Folks (Sami swoi)	2007	1.8	Comedy
+White Sands	2011	1.2	Drama|Thriller
+Devil's Doorway	1995	1.4	Western
+Vertical Ray of the Sun, The (Mua he chieu thang dung)	1987	1.4	Drama
+Knockin' on Heaven's Door	2009	1.7	Action|Comedy|Crime|Drama
+Rat Savior, The (Izbavitelj)	2012	2.3	Horror|Sci-Fi
+Wasabi	2002	2.1	Action|Comedy|Crime|Drama|Thriller
+New in Town	1999	2.1	Comedy|Romance
+Rachel, Rachel	1994	1.8	Drama|Romance
+Desert Trail, The	2010	2.4	Western
+Mr. Conservative: Goldwater on Goldwater	2005	1.5	Documentary
+Ratko: The Dictator's Son (National Lampoon's Ratko: The Dictator's Son)	2009	2.2	Comedy
+Homeward Bound II: Lost in San Francisco	1987	1.7	Adventure|Children
+David Holzman's Diary	1998	2.2	Documentary|Drama
+Loverboy	2008	1.7	Comedy
+Beast, The	2011	2.1	Drama|Horror|Thriller
+What? (Che?)	2006	1.6	Comedy
+TV Set, The	1997	1.1	Comedy|Drama
+Mad Dog Time	2007	1.4	Crime
+Halloween III: Season of the Witch	2006	1.1	Horror
+Predators	2008	1.8	Action|Sci-Fi|Thriller
+Brothers McMullen, The	2011	2.0	Comedy
+Rollerball	2011	1.8	Action|Sci-Fi
+Kid Cannabis	2008	1.1	Drama
+Vanity Fair	1998	1.6	Drama|Romance
+Sky High	1988	1.5	Action|Adventure|Children|Comedy
+Ghost and Mr. Chicken, The	1987	1.3	Comedy|Romance
+Koch	1999	1.5	Documentary
+Mr. Nobody	2006	2.1	Drama|Fantasy|Romance|Sci-Fi
+Iron Eagle II	1998	1.5	Action|War
+Outbreak	1989	1.7	Action|Drama|Sci-Fi|Thriller
+Drogówka	2004	1.7	Comedy|Crime|Drama
+Bullets or Ballots	1992	2.2	Crime|Drama|Thriller
+Slim Susie (Smala Sussie)	1992	1.3	Comedy|Crime|Mystery
+Joe Dirt	1996	1.4	Adventure|Comedy|Mystery|Romance
+In My Skin (Dans ma Peau)	1996	2.0	Drama
+Stonewall Uprising	1994	2.4	Documentary
+The Cobbler	2007	2.4	Comedy|Drama|Fantasy
+Higher Learning	2006	2.0	Drama
+Timerider: The Adventure of Lyle Swann	2012	1.1	Action|Adventure|Sci-Fi|Western
+Rocky II	1999	2.0	Action|Drama
+Li'l Quinquin	1959	2.1	(no genres listed)
+That Sugar Film	1993	2.5	Documentary
+Insect Woman, The (Nippon konchûki)	2011	1.5	Drama
+Maiden Heist, The	1990	2.1	Comedy|Crime
+Tekken	1993	1.9	Action|Sci-Fi
+Black Sheep	2008	1.6	Comedy|Horror
+Open Season 2	1989	2.4	Adventure|Animation|Children|Comedy
+London Conspiracy	1996	1.9	Action|Mystery
+Don's Plum	2012	1.8	Drama
+Double Indemnity	2010	2.0	Crime|Drama|Thriller
+St. Ives	1985	1.1	Crime|Mystery|Thriller
+Change-Up, The	1998	1.7	Comedy
+Half Life of Timofey Berezin, The (PU-239)	2007	1.7	Drama
+Lone Ranger, The	1999	1.6	Action|Adventure|Western|IMAX
+Where the Day Takes You	2005	1.5	Drama
+Bedroom Window, The	1996	1.6	Thriller
+Sound of Insects, The	1984	1.3	Adventure|Documentary|Drama|Mystery|Thriller
+Strange Invaders	2011	2.0	Drama|Romance|Sci-Fi
+Wings of the Dove, The	2003	1.2	Drama|Romance
+Dust	2012	1.1	Drama|Western
+Hamlet	1993	2.0	Drama
+Twelve Monkeys (a.k.a. 12 Monkeys)	1996	1.1	Mystery|Sci-Fi|Thriller
+The Stanford Prison Experiment	1992	1.5	Drama|Thriller
+King of Beggars (Mo jong yuen So Hat-Yi)	2005	1.2	Action|Comedy|Drama
+Touchy Feely	1999	2.3	Drama
+Muppets From Space	2001	1.8	Children|Comedy
+Hoot	2005	1.6	Children|Comedy
+Big Bad Wolves	2000	1.8	Crime|Thriller
+Last Klezmer: Leopold Kozlowski, His Life and Music, The	2000	1.9	Documentary
+Possession	2003	1.7	Drama|Romance
+Omen, The	2010	1.9	Horror|Mystery|Thriller
+Merantau	2011	1.6	Action|Drama
+Rat	2001	1.3	Comedy|Drama|Romance
+First Time, The	1994	2.1	Comedy|Drama|Romance
+Fugitives (Fugitivas)	2003	1.2	Drama|Thriller
+Resan Till Melonia	1972	2.2	Adventure|Animation|Children|Fantasy
+Kids in the Hall: Brain Candy	1997	1.5	Comedy
+Juice	1998	1.2	Action|Crime|Drama|Thriller
+Awfully Big Adventure, An	1994	1.3	Drama
+Men in the City (Männerherzen)	1998	1.6	Comedy
+Louisiana Story	1992	2.0	Drama
+Patriot Games	2003	1.9	Action|Thriller
+Above Suspicion	1998	1.2	Thriller
+Bronx Obama	2009	1.7	Documentary
+Band of Brothers	1995	2.2	Action|Drama|War
+Desperate	1996	1.8	Drama|Film-Noir
+Bad Timing: A Sensual Obsession	2006	1.9	Drama
+Caltiki the Undying Monster	1996	1.6	Adventure|Horror|Sci-Fi|Thriller
+Pilgrim, The	1993	1.1	Comedy
+Comic Book Confidential	2005	1.5	Documentary
+No Impact Man: The Documentary	2004	1.7	Documentary
+Dante's Inferno	1991	2.2	Action|Drama
+From Prada to Nada	1987	2.3	Comedy|Romance
+Wanda Sykes: Sick and Tired	1988	1.4	Comedy|Documentary
+Madame Bovary	2001	2.2	Drama|Romance
+Killing Auntie (Zabicie ciotki)	2008	1.7	Drama|Thriller
+City Girl	2004	1.0	Drama|Romance
+Talk of the Town, The	2010	1.1	Comedy|Romance|Thriller
+Along Came a Spider	1997	2.4	Action|Crime|Mystery|Thriller
+Cose da pazzi	2004	1.8	(no genres listed)
+Lady Be Good	1985	1.6	Comedy|Musical
+Why Don't You Play In Hell? (Jigoku de naze warui)	1989	2.0	Action|Drama
+Ten Commandments, The	2011	1.8	Drama
+Blood Moon	1994	2.4	Drama|Horror
+Guy and Madeline on a Park Bench	1993	1.7	Drama|Musical
+Masterminds	2009	1.1	Action|Comedy|Thriller
+Army Brats (Schatjes!)	2008	1.1	Children|Comedy
+East, West, East: The Final Sprint	2007	2.2	Comedy|Drama
+The Mayor of Casterbridge	1987	2.2	Drama
+Soap and Water	1969	2.3	Comedy
+Power of One, The	1998	1.0	Drama
+The Boogens	2001	2.2	Horror
+In My Father's Den	1996	1.0	Drama
+London River	1992	1.8	Drama|Mystery
+Femme Fatale	2012	1.9	Crime|Thriller
+No One Dies in Lily Dale	2011	1.4	Documentary
+Nine Lives (Ni liv)	1997	1.4	Action|Adventure|War
+La discrète	2001	2.3	Drama|Romance
+Apollo 13	2000	1.8	Adventure|Drama|IMAX
+Anastasia	1998	2.4	Drama
+Send Me No Flowers	2007	1.5	Comedy|Romance
+Wool Cap, The	2008	2.4	Drama
+Wood & Stock: Sexo, Orégano e Rock'n'Roll	1997	1.3	Animation|Comedy
+Treatment, The	2007	1.6	Comedy|Drama|Romance
+The Beautiful Story	2003	1.6	Adventure|Drama|Fantasy
+Stuff and Dough (Marfa si banii)	2009	2.3	Drama
+Incir Reçeli	2009	1.2	Drama|Romance
+Rage	1995	1.4	Drama
+Straight Time	2001	2.0	Crime|Drama
+My Mother's Castle (Château de ma mère, Le)	2009	2.1	Comedy|Drama
+Chitty Chitty Bang Bang	1997	1.0	Adventure|Children|Comedy|Fantasy|Musical
+The Private Life of Deer	1986	2.3	Documentary
+St. Valentine's Day Massacre, The	2006	2.2	Crime|Drama
+Dance Me Outside	1989	1.3	Comedy|Drama
+Liam	2011	1.1	Drama
+The Heavy	2012	2.0	Action|Thriller
+Man on the Roof, The (Mannen på taket)	1993	1.7	Action|Crime|Drama|Thriller
+Wayward Bus, The	1993	1.6	Drama
+Smiling Lieutenant, The	2001	2.3	Comedy|Musical|Romance
+Whitecoats	1999	2.1	Comedy
+Pandora and the Flying Dutchman	2010	2.3	Drama
+Comrade X	1999	1.5	Comedy|Drama
+Timeline	2000	1.3	Action|Adventure|Sci-Fi
+Punk Syndrome, The (Kovasikajuttu)	2003	2.0	Documentary
+Southland Tales	2008	2.0	Comedy|Drama|Sci-Fi|Thriller
+People vs. Larry Flynt, The	2000	1.2	Comedy|Drama
+Pootie Tang	2012	1.3	Comedy
+Miracle on 34th Street	2011	1.7	Comedy|Drama
+Shark Attack	1995	1.4	Action|Horror
+In & Out	2005	2.4	Comedy
+Bunker, The	1995	1.5	Drama|Horror|Mystery|Thriller|War
+Trial by Jury	1999	2.2	Crime|Drama|Thriller
+Tales of Hoffmann, The	1996	1.5	Adventure|Fantasy|Musical|Romance
+Prozac Nation	1997	1.1	Drama
+Blondes at Work	2009	1.5	Crime|Drama|Mystery|Romance
+16 Years of Alcohol	1986	1.8	Drama
+Comedy of Terrors, The	2011	2.2	Comedy|Horror
+Victor Sjöström: Ett porträtt	1995	1.7	Documentary
+Kobe Doin' Work	1993	2.3	Documentary
+Medium Cool	2001	1.9	Drama|Romance
+Land of the Pharaohs	1974	1.5	Drama
+Home Sweet Hell	1988	2.2	Comedy|Drama
+Intimate Strangers (Confidences trop intimes)	2011	1.8	Drama
+Jacques Brel Is Alive and Well and Living in Paris	2008	2.2	Musical
+Tape	2010	1.9	Drama
+Mystery Train	2011	1.9	Comedy|Drama
+Die Hard: With a Vengeance	2004	1.1	Action|Crime|Thriller
+Battles Without Honor & Humanity (Jingi naki tatakai)	2012	1.1	Crime|Drama
+Broken Windows	2003	1.1	Drama
+Papadopoulos & Sons	2010	2.2	Comedy|Drama
+Execution Squad	1993	1.5	Crime|Drama
+Lisbon Story	2013	1.2	Drama
+Atonement	1996	2.1	Drama|Romance|War
+Off the Charts: The Song-Poem Story	2000	1.8	Documentary
+12:01 PM	2011	1.3	Sci-Fi
+Private Parts	1993	1.6	Comedy|Drama
+Lady and the Tramp II: Scamp's Adventure	1998	2.5	Adventure|Animation|Children
+Arrangement, The	1994	1.6	Drama
+Hi-Lo Country, The	2009	2.5	Drama|Romance|Western
+Mr. Mom	2010	2.4	Comedy|Drama
+Tony Rome	2005	2.3	Crime|Drama|Thriller
+Buccaneer, The	1997	2.2	Adventure
+Music Never Stopped, The	1998	2.0	Drama
+Football Factory, The	1991	1.4	Action|Drama
+Brigham City	2007	1.4	Crime|Drama|Mystery
+Star Trek III: The Search for Spock	2006	1.5	Action|Adventure|Sci-Fi
+The Borderlands	1985	1.9	Horror|Mystery
+The White Sister	2001	1.7	Drama|Romance
+Ballad of the Little Soldier (Ballade vom kleinen Soldaten)	2006	1.7	Documentary
+Year of Living Vicariously, The	1996	1.1	Documentary
+Fist of the North Star	2001	1.8	Action|Animation
+Continental Divide	1992	1.1	Comedy|Romance
+Shakespeare-Wallah	1995	1.6	Drama
+3096 Days	1999	1.4	Drama
+Dragnet	2012	1.6	Comedy|Crime|Drama
+Forsaking All Others	2011	2.5	Comedy|Drama|Romance
+Sounder	2011	1.3	Drama
+Like Father, Like Son (Soshite chichi ni naru)	2007	1.4	Drama
+Face	1999	2.1	Comedy
+Examined Life	2000	1.3	Documentary
+Missing in America	2001	1.5	Drama|War
+My Dear Secretary	2000	1.9	Comedy|Romance
+Jam	1997	2.2	Drama
+World's Greatest Dad	1999	2.1	Comedy|Drama
+Fast Food, Fast Women	2007	1.9	Comedy|Romance
+Elephant Boy	2003	2.0	Adventure|Drama
+Year of the Gun	1996	1.4	Action|Romance|Thriller
+Stranger on the Third Floor	2007	2.5	Drama|Film-Noir
+Never Play Clever Again (Gendarme et les gendarmettes, Le)	2008	2.3	Comedy|Crime
+Someone Else's America	2011	1.7	Drama
+Trail of the Lonesome Pine, The	2009	2.3	Drama|Romance
+Wrong Is Right (a.k.a. The Man With the Deadly Lens)	2005	1.5	Drama|Thriller
+Moon Is Blue, The	2000	1.1	Comedy|Romance
+Black Room, The	1996	1.9	Crime|Horror|Thriller
+Maid of Salem	2004	2.0	Drama
+Field of Dreams	1995	2.4	Children|Drama|Fantasy
+Servant, The	1995	1.1	Drama
+I Am Taraneh, I Am Fifteen Years Old (Man, taraneh, panzdah sal daram)	2009	1.5	Drama
+The Man Who Loved Yngve	1997	1.0	Comedy|Drama|Romance
+Sugar Curtain, The (El telón de azúcar)	2010	1.0	Documentary
+Savages	2011	2.2	Comedy|Fantasy
+Last Wedding, The (Kivenpyörittäjän kylä)	2003	2.5	Comedy|Drama
+Dead Rising: Watchtower	2008	2.1	Action|Horror|Thriller
+Messages Deleted	2008	1.9	Mystery|Thriller
+Involuntary (De ofrivilliga)	1998	2.0	Drama
+Border Run (Mule, The)	2006	1.9	Crime|Thriller
+[REC]²	2005	1.6	Horror|Thriller
+Texas Chainsaw Massacre, The	2010	2.2	Horror
+Betty	2010	1.7	Drama
+Comedy Central Roast of Bob Saget	1992	2.1	Comedy
+Irina Palm	1995	1.8	Drama
+Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch)	1995	1.1	Action|Thriller|War
+The True Story of Puss 'n Boots	2012	1.4	Adventure|Animation|Children
+Arch of Triumph	2003	2.1	Drama|Romance|War
+They Gave Him A Gun	1978	1.5	Crime|Drama
+Hype!	1991	1.9	Documentary
+Widows	2007	2.0	Drama
+Magnificent Seven, The	1997	2.0	Adventure|Western
+K-11	2006	1.3	Crime|Drama
+Benny & Joon	1984	2.5	Comedy|Romance
+Thirteen Women	2003	1.2	Drama|Mystery
+Manderlay	2002	1.8	Drama
+Steal This Film II	2013	2.0	Documentary
+Clown	2012	1.9	Drama|Horror
+Resolution	2011	1.8	Horror|Thriller
+Hannah Free	1992	1.9	Drama
+This Christmas	1997	2.3	Comedy|Drama|Romance
+Gigantic (A Tale of Two Johns)	1992	1.5	Documentary
+Black Hawk Down	2009	1.6	Action|Drama|War
+Long Goodbye, The	2001	2.0	Crime|Film-Noir
+Thief Who Came to Dinner, The	2003	1.7	Comedy|Romance
+Comrades: Almost a Love Story (Tian mi mi)	2000	1.9	Drama|Romance
+Gray Matters	2004	2.5	Comedy|Drama|Romance
+Jimmy Show, The	2009	2.1	Comedy|Drama
+Janie Jones	2012	2.1	Drama|Musical
+One and Only, The	2012	1.5	Comedy|Romance
+Maverick	2010	2.3	Adventure|Comedy|Western
+Shooting Fish	1989	1.1	Comedy|Romance
+From the Earth to the Moon	2012	1.5	Action|Documentary|Drama|Thriller
+Misfortunates, The (De helaasheid der dingen)	1992	1.8	Drama
+Pulse	2009	1.3	Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+8th Wonderland	2006	1.5	Drama|Thriller
+Shrek the Halls	2002	2.2	Adventure|Animation|Comedy|Fantasy
+Like It Is	2005	2.1	Drama
+Race the Sun	2012	1.5	Adventure|Comedy|Drama
+Tetsuo, the Ironman (Tetsuo)	1992	1.7	Action|Horror|Sci-Fi|Thriller
+Who Is Killing the Great Chefs of Europe?	2003	1.8	Comedy|Crime|Mystery
+The Man from Acapulco	2008	1.8	Action|Comedy|Fantasy|Romance
+Final Destination 3	1993	2.0	Horror|Mystery|Thriller
+Sanshiro Sugata Part Two (Judo Saga II) (Zoku Sugata Sanshirô)	1997	1.6	Action|Adventure
+Fury	2009	1.0	Action|Drama|War
+Ping Pong Summer	2010	2.1	Comedy
+Her Alibi	2007	1.5	Comedy|Romance
+Merry Widow, The	1992	1.4	Musical
+Fill the Void (Lemale et ha'halal)	1997	1.7	Drama
+Vesku from Finland (Vesku)	2009	2.4	Documentary
+Closet, The (Placard, Le)	2007	1.0	Comedy
+Cigarette Girl of Mosselprom, The (Papirosnitsa ot Mosselproma)	2002	1.8	Comedy|Romance
+Dylan Moran: Yeah, Yeah	1994	2.2	Comedy
+Seduced and Abandoned	1995	1.3	Comedy|Documentary
+Four Sided Triangle	2003	1.6	Romance|Sci-Fi
+War Lord, The	1992	1.6	Drama|Romance|War
+Saratov Approach, The	2000	1.7	Action|Drama
+Stander	1996	1.3	Action|Crime|Drama
+Dragon Ball Z: Wrath of the Dragon (Doragon bôru Z 13: Ryûken bakuhatsu!! Gokû ga yaraneba dare ga yaru)	1993	1.1	Action|Adventure|Animation
+Maskerade	2007	2.0	Comedy|Romance
+Blood Feast	2012	1.0	Horror
+Leap of Faith	1995	2.2	Comedy|Drama
+Elusive Summer of '68, The (Varljivo leto '68)	2001	1.3	Comedy|Drama|Romance
+Beautiful Life, A	2006	1.2	Drama
+Hard-Boiled (Lat sau san taam)	2007	2.4	Action|Crime|Drama|Thriller
+Corridors of Blood	1998	2.2	Crime|Drama|Horror|Thriller
+Life Back Then (Antoki no inochi)	1991	1.8	Drama|Romance
+Bring It On: Fight to the Finish	2010	2.4	Comedy
+Love Story	2005	2.3	Drama|Romance
+Shadowboxer	1987	2.4	Crime|Drama|Thriller
+A Justified Life: Sam Peckinpah and the High Country	1994	2.3	Documentary
+Bill Maher: Victory Begins at Home	2010	2.3	Comedy
+Buccaneer, The	2005	1.2	Adventure
+Thousand Words, A	2001	1.8	Comedy|Drama
+Uninvited, The	2001	1.8	Drama|Horror|Mystery|Thriller
+Our Life (La nostra vita)	2010	1.5	Drama
+Eraser	1969	2.4	Action|Drama|Thriller
+Paris, Texas	1998	1.9	Drama|Romance
+Tycoon	2010	2.4	Adventure|Drama|Romance
+Flicker	2010	1.6	Horror
+Return of Frank James, The	1993	2.4	Western
+Katalin Varga	1995	1.0	Crime|Drama|Thriller
+Freedomland	2010	1.8	Crime|Drama
+Skyline	1994	2.5	Sci-Fi|Thriller
+Asphyx, The	2007	2.1	Horror|Sci-Fi
+Phase 7	1993	2.4	Comedy|Sci-Fi|Thriller
+I Am Michael	1978	2.4	Drama
+Dylan Moran: Monster	1993	1.6	Comedy|Documentary
+Garage, The	1998	1.8	Comedy
+Once Upon a Time (Der var engang)	2010	1.1	Romance
+Christopher Strong	1998	2.3	Drama
